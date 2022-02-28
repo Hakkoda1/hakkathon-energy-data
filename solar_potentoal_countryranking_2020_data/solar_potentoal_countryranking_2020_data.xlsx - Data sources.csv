@@ -1,0 +1,29 @@
+,Solargis 
+,Average theoretical potential - GHI (kWh/m2/day)
+,Average practical potential - PVOUT (kWh/kWp/day)
+,Distribution of photovoltaic power output
+,Monthly variation of photovoltaic power output
+,PV equivalent area (% of total country area)
+,PV seasonality index
+,
+,The World Bank
+,"Population, total (2018). Accessed on 2019-11-06. 
+https://data.worldbank.org/indicator/sp.pop.totl"
+,"Area, total (2018). Accessed on 2019-11-06.
+https://data.worldbank.org/indicator/ag.lnd.totl.k2"
+,"GDP per capita (2018, current USD). Accessed on 2019-11-06.
+https://data.worldbank.org/indicator/ny.gdp.pcap.cd"
+,"Human Development Index (2017). Accessed on 2019-06-10.
+https://datacatalog.worldbank.org/human-development-index-hdi"
+,"Electric power consumption (2014, kWh per capita). Accessed on 2019-11-06. https://data.worldbank.org/indicator/eg.use.elec.kh.pc"
+,"Access to electricity (2016, % of rural population). Accessed on 2019-11-06. https://data.worldbank.org/indicator/eg.elc.accs.ru.zs"
+,"Reliability of supply and transparency of tariff (2019). Accessed on 2020-01-24.
+World Bank, Doing Business, Measuring Business Regulations, Getting Electricity indicators, https://www.doingbusiness.org/en/data/exploretopics/getting-electricity"
+,"Approximate electricity tariffs (2019, US cents/kWh). Accessed on 2020-01-24.
+World Bank, Doing Business, Measuring Business Regulations, Getting Electricity indicators, https://databank.worldbank.org/reports.aspx?source=3001&series=IC.ELC.PRI.KH.DB1619"
+,
+,IRENA
+,"PV installed capacity (2018, Mwp)
+IRENA, Renewable Capacity Statistics 2019. Accessed on 2019-06-10. https://www.irena.org/publications/2019/Mar/Renewable-Capacity-Statistics-2019"
+,"Levellized cost of electricity (2018, USD/kWh)
+IRENA, Renewable power generation cost report 2018. Accessed on 2019-06-10. https://www.irena.org/publications/2019/May/Renewable-power-generation-costs-in-2018"

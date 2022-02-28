@@ -1,0 +1,26 @@
+,Theoretical PV Potential
+,"Global horizontal irradiance, the longterm amount of solar resource available on a horizontal surface on Earth, measured in kWh/m2/day. It is the sum of direct (DNI) and diffuse (DIF) components."
+,
+,Practical PV Potential
+,"Photovoltaic power output of a PV system (specific yield); in this case, the longterm power ouput produced by a utility-scale installation of monofacial modules fixed mounted at an optimum tilt, measured in kWh/kWp/day"
+, • Level 0 - Practical potential disregarding any land-use constraints 
+," • Level 1 - Level 0 practical potential, excluding land with identifiable physical obstacles to utility-scale pv plants"
+," • Level 2 - Level 1 practical potential, excluding land possibly under land use regulations due to nature and      cropland protection"
+,
+,Economic PV Potential 
+,"Levelized cost of electricity - the lifetime costs associated with construction and operation of the power plant divided by the electricity produced during this lifetime, measured in USD/kWh (the lower the cost, the higher is the economic potential)"
+,
+,PV equivalent area
+,"Presumed country area proportion to be covered by PV plants producing the equivalent of yearly electricity consumption. The calculation assumes fixed-mounted, monofacial C-Si modules with optimum tilt and row spacing. The estimated area includes both the active area of PV modules and the area between the module rows."
+,
+,PV seasonality index 
+,Ratio between the highest and the lowest of monthly long-term PVOUT averages
+,
+,Acronyms
+,DIF - Diffuse horizontal irradiance
+,DNI - Direct normal irradiance
+,GHI - Global horizontal irradiance
+,IRENA - International Renewable Energy Agency
+,LCOE - Levellized cost of electricity
+,PVOUT - Photovoltaic power output
+,PV - Photovoltaic
